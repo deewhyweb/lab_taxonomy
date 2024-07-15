@@ -11,6 +11,11 @@ seed_examples:
     question: When will payments for Car Insurance from Parasol Insurance end?
   - answer: The amount of the car rental must be reported to Parasol insutance before we will pay such an amount.
     question: What needs to happen before Parasol Insurance will pay car rental charges?
+  - answer: If you are at fault, to be able to claim for your own lost wages from Parasol Insurance, you need to have the optional Apex plus package which provides coverage of loss of income insurance as part of your policy. If another driver is at fault, the at-fault driver’s auto insurance company is typically responsible for covering your lost income. 
+    question: Does Parasol insurance cover loss of income due to a car collision?
+  - answer: The Parasol insrurance Apex plus package provides additional coverage for loss of income and uninsured driver insurance on top of their insurance policy. 
+    question: What is the Parasol insurance Apex plus package?
+
 
 task_description: ""
 document:
