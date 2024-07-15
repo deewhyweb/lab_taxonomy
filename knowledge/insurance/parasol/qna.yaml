@@ -19,7 +19,7 @@ seed_examples:
 
 task_description: ""
 document:
-  repo: https://github.com/deewhyweb/driving_laws.git
-  commit: 10371e75866fdf2f7c817491b0bfb38f52150e9d
+  repo: https://github.com/rh-rad-ai-roadshow/parasol_knowledge.git
+  commit: 73d49bd4d15ba353992c3814326c4b7cf3ef4716
   patterns:
-    - car_rental.md
+    - Parasol_auto_insurance.md
